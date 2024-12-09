@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+* {
+    padding: 0;
+    /*Padding é para por espaçamento interno em um elemento*/
+
+    margin: 0;
+    /*Margin é para por espaçamento externo em um elemento*/
+
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+:root {
+    --azulPrincipal: #34599F;
+    --vermelhoPrincipal:#C43C24;
+}
