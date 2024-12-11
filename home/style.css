@@ -19,3 +19,11 @@
     display: flex;
     justify-content: space-around;
 }
+
+.barraPesquisa{
+    width: 15vw;
+    height: 30px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
